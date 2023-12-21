@@ -17,7 +17,7 @@ const Hero = () => {
             />
             <h1 className='bold-52 lg:bold-88'>JourneyJoy Camp</h1>
             <p className='regular-16 mt-6 text-gray-30 xl:max-w-[520px]'>
-                Escape to a realm where exploration knows no bounds. Amidst breathtaking vistas and untamed wilderness, our sanctuary beckons. Traverse uncharted trails, savor moments around dancing flames, and discover the joy of shared adventures. Join us as we unlock nature's secrets, crafting memories that echo with the thrill of discovery.
+                Escape to a realm where exploration knows no bounds. Amidst breathtaking vistas and untamed wilderness, our sanctuary beckons. Traverse uncharted trails, savor moments around dancing flames, and discover the joy of shared adventures. Join us as we unlock nature&apos;s secrets, crafting memories that echo with the thrill of discovery.
             </p>
 
             <div className='my-11 flex flex-wrap gap-5'>

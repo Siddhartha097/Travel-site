@@ -67,7 +67,7 @@ const Camp = () => {
         <div className="bg-green-50 p-8 max-w-[500px] xl:max-w-[735px] xl:rounded-5xl xl:px-16 xl:py-20 relative w-full overflow-hidden rounded-3xl ">
           <h2 className="regular-24 md:regular-32 2xl:regular-64 capitalize text-white"><strong>Feeling lost</strong> and not knowing the way?</h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            Find serenity in nature's embrace at our campsite. Amidst breathtaking landscapes, ignite connections around bonfires, embark on thrilling adventures, and relish starlit skies. Unplug from the mundane and immerse yourself in the untamed wilderness, where each moment crafts enduring memories of exploration and tranquility
+            Find serenity in nature&apos;s embrace at our campsite. Amidst breathtaking landscapes, ignite connections around bonfires, embark on thrilling adventures, and relish starlit skies. Unplug from the mundane and immerse yourself in the untamed wilderness, where each moment crafts enduring memories of exploration and tranquility
           </p>
           <Image 
             src='/quote.svg' 
