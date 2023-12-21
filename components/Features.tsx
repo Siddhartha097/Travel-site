@@ -47,10 +47,9 @@ interface FeatureProps {
   title: string;
   icon: string;
   desc: string;
-  variant: string;
 }
 
-const FeatureItem = ({ title, icon, desc, variant } : FeatureProps ) => {
+const FeatureItem = ({ title, icon, desc } : FeatureProps ) => {
   return(
     <li className="flex w-full flex-1 flex-col items-start">
       <div className="rounded-full p-4 lg:p-7 bg-green-50">
